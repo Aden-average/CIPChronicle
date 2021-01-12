@@ -1,0 +1,124 @@
+<!Doctype HTML>
+<hml lang="eng">
+<Title>CIP Chronicle</Title>
+<header></header>
+<h1>
+  CIP Cronicle
+</h1>
+<p>
+  This is the main website
+</p>
+<ul>
+  <nav>
+    <li><a href="#issue's">Issues</a></li>
+    <li><a href="#people"> People</a></li>
+    <li><a href="#interviews">Interviews</a></li>
+    <li><a href="#other">Other</a></li>
+  </nav>
+</ul>
+<section id="issues">
+  <h1>
+    Issues
+  </h1>
+  <h3>
+    <a href="https://drive.google.com/file/d/1U9LFHsVmLabcbpQUBq2k8pwD33ydds36/view" target="_blank">Issue 1</a>
+  </h3>
+  <h3>
+    Issue 2
+  </h3>
+</section>
+<section id="people">
+  <h1>
+    People
+  </h1>
+  <h1>
+    2020 Editors
+  </h1>
+  <h2>
+    <em><strong>Editor in Chief:</strong>Karema Salem</em>
+  </h2>
+  <p>
+    The Editor-in-Chief gets the final say on decisions across all bureaus and teams. She oversees the writers' work, manages the social media, and even contributes articles herself!
+  </p>
+  <h2>
+    <em><strong>News Editor:</strong> Eishah Malik</em>
+  </h2>
+  <p>
+    The news team produces the largest number of our stories for The Chronicle. They write about anything from big news events to opinion pieces, from Coney Island Prep and around the globe!
+  </p>
+  <h2>
+    <em> <strong>Poetry and fiction Editor:</strong>Aden Ruben</em>
+  </h2>
+  <p>
+    The poetry/fiction team is half of the creative mind at The Chronicle. They also field any poetry/fiction submissions from our community. If you want to be featured on The Chronicle, make sure to email aruben2026@coneyislandprep.org!
+  </p>
+  <h2>
+    <em><strong>Desighn Editor:</strong>Alina Hassan</em>
+  </h2>
+  <p>
+    The design team are our unsung heros here at The Chronicle. They're in charge of collecting projects from the other teams, determining the paper's look, and getting it out on time.
+
+  </p>
+  <h2>
+    <em><strong>Art Editor</strong>Kimberly Torres</em>
+  </h2>
+  <p>
+    Apart from the news, a huge focus of our paper is art. The visual art team is the other creative half of The Chronicle. They design our covers and any iterations of our mascot, Milo!
+  </p>
+  <h2>
+    <em><strong>Community Spotlight editor</strong>Aden Ruben</em>
+  </h2>
+  <p>
+    The community spotlight team focuses on highlighting the amazing things CIPHS staff and students are doing when they aren't at school. Additionally, they are committed to showing readers the best in food, arts, and entertainment in South Brooklyn!
+  </p>
+  <h2>
+    <em><strong> Sports Editor:</strong>Axel Larson</em>
+  </h2>
+  <p>
+    Our sports team covers anything and everything in the wide world of sports. Whether that be recent CIP sports games (after 2020), major stories around the sports world, or spotlights on sports figures!
+  </p>
+  <div id="staff">
+    <h1>
+      2020 Staff
+    </h1>
+    <h3>
+      <strong>Art</strong><br>Alicia Warden
+    </h3>
+    <h3>
+      <strong>Editorial Board</strong><br>Noah Fuentes<br>Rosario Salinas<br>Dianna Levans
+    </h3>
+    <h3>
+      <strong>Design</strong><br>Esther Akinbuwa<br>Jacqueline Velez
+    </h3>
+    <h3>
+      <strong>News</strong><br>Sabrena Hassan<br>Megan Pereira<br>Kaelah Escamilla<br>Noah Fuentes
+    </h3>
+    <h3>
+      <strong>Poetry and Fiction</strong><br>Numra Sultana<br>Rosario Salinas<br>Wendy Garcia
+    </h3>
+    <h3>
+      <strong>Sports</strong><br>Giselle Rodriguez<br>Yoltic Velez
+    </h3>
+    <h3>
+      <strong>Community Spotlight</strong>Dianna Levans
+    </h3>
+    
+  </div>
+</section>
+<section id="interviews">
+  <h1>
+    Interviews
+    <img class="kim" src="https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/e35/128665599_1354518244927647_4655320289352858503_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=K3b_nz6A2qkAX8lxp5e&tp=1&oh=6eb875b0940cce232e6226520f95775f&oe=60251F8E" alt="interview of Kiberly Torres">
+    <img class="karema" src="https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/e35/128842161_213171966873246_435385560542734070_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=106&_nc_ohc=eK497RYV6EMAX9qORhp&tp=1&oh=ed7dc3148a9f11a0c48308889bab1d63&oe=60248700" alt="interview of Karema Salem">
+    <img class="axel" src="https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/e35/129396082_426704361821123_5217960344573607046_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=111&_nc_ohc=ekRyLRuGKJkAX-CtHC2&tp=1&oh=d254f125e46073d04f78f56485768a73&oe=6025D51E" alt="interview of Axel Larson">
+    <img class="megan" src="https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/e35/129553412_851142632379784_3513917202458831153_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=104&_nc_ohc=k5Xhvq-53aMAX_DyHRs&tp=1&oh=0c7812c7d9fee24572253f2a114c5f64&oe=6026241F" alt="interview of Megan Pereira">
+    <img class="numra" src="https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/130296214_379567269938679_6202946861342000626_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=tC7EkaDdgvgAX8PIy2o&tp=1&oh=74451716c4d33e3c1f4466c4c4d0dc5e&oe=60267401" alt="interview of NumraSultana">
+  </h1>
+</section>
+<section id="other">
+  <h1>
+    Other
+  </h1>
+</section>
+<a href="https://coneyislandprep.org/schools/high-school/" target="_blank">CIP website</a>
+</hml>
