@@ -1,3 +1,3 @@
 # cipchronicle
-for school newspaper
+For School Newspaper
 Programmed by Aden Ruben
